@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anfas
 
-🎓 B.Tech Computer Science Engineering Student (3rd Year)
+🎓 Final year B.Tech Computer Science & Cybersecurity Student 
 💻 Passionate about Cybersecurity, AI, and Software Development
 📍 Based in India
 
